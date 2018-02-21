@@ -1,0 +1,19 @@
+body {
+    box-sizing: border-box;
+  }
+  
+  .login {
+    border: 1px solid #000;
+    border-radius: 5px;
+    margin: auto;
+    padding: 25px;
+    width: 160px;
+  }
+  
+  .login input {
+    margin: 5px;
+  }
+  
+  .login button {
+    float: right;
+  }
