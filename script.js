@@ -1,7 +1,7 @@
 var pass = document.getElementById('pass_contra').value;
 
 function ValidarFormulario() {
-  
+ 
 }
 
 function validarNombre() {
@@ -17,7 +17,7 @@ function validarNombre() {
                           }
                 }
         } else {
-                return 'El nombre no puede estar vacio';
+                alert('El nombre no puede estar vacio');
         }
         return 'Nombre correcto';
 }
